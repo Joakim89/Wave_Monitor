@@ -1,0 +1,10 @@
+#html plots
+*.html
+
+#pyCharm
+.idea/
+venv/
+__pycache__/
+Include/
+Scripts/
+pyvenv.cfg
